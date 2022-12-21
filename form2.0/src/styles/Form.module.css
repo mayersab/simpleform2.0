@@ -1,0 +1,47 @@
+.form {
+  display: flex;
+}
+.editform {
+  display: flex;
+}
+.editform input {
+  height: 1em;
+  width: 10em;
+  margin: 0.5em 0.5em;
+  border-radius: 5px;
+  border: solid black 1px;
+}
+.editform label {
+  margin: 0.5em;
+}
+.title {
+  text-align: center;
+}
+.form input {
+  height: 2em;
+  width: 20em;
+  margin: 0.5em 0.5em;
+  border-radius: 5px;
+  border: solid black 1px;
+}
+.form label {
+  margin: 0.5em;
+}
+.submitted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 1em;
+  border: solid black 1px;
+  margin: 1rem;
+  background-color: aliceblue;
+  width: 30rem;
+}
+.btn {
+  margin: 1em 0;
+  padding: 0.25em 1em;
+  border-radius: 5px;
+  border: none;
+  background-color: lightgrey;
+}
